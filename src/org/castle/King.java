@@ -8,5 +8,7 @@ public class King {
 		
 		System.out.println("own");
 		
+		System.out.println("Kingdom");
+
 	}
 }
