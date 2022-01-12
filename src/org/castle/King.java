@@ -5,5 +5,7 @@ public class King {
 	private void member() {
 		
 		System.out.println("King's");
+		
+		System.out.println("Kingdom");
 	}
 }
