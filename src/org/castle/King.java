@@ -6,6 +6,9 @@ public class King {
 		
 		System.out.println("King's");
 		
+		System.out.println("own");
+		
 		System.out.println("Kingdom");
+
 	}
 }
